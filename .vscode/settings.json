@@ -1,0 +1,9 @@
+{
+    "css.autoValidation": "Always",
+    "css.styleSheets": ["ContosoPizza/wwwroot/css/*.css",
+                        "../ContosoPizza/wwwroot/lib/bootstrap/dist/css/*.css",
+                        "F:/Repos/C_sharp/MicrosoftCourse/mslearn-create-razor-pages-aspnet-core/ContosoPizza/wwwroot/lib/bootstrap/dist/css/*.css"
+                    ],
+                        
+
+}
